@@ -10,6 +10,7 @@ Introduction to the ATM system:
 # Research
 
 # SWOT Analysis
+
 |Strengths                            | Weaknesses                  | Opportunities                                 | Threats                                      |
 |Good returns on capital expenditure  | Demand forecasting          | Web-based/ online banking                     | Climate change                               |
 |Customer-friendly mortgage Plans     | Controversies               | Emerging youth                                | Use lawsuits claims to allege dark pool fraud|
