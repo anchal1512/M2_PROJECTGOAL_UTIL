@@ -17,4 +17,4 @@ Introduction to the ATM system:
 |-High liquidity                      | loyalty rates               | Expansion in monetary information among youth | Allegation of money laundering               |
 |-Employee orientation                |Affercting long term growth  |                                               |High competition                              |                      
 # 4W's And 1H
-# High level Requirement And Low level Requirements
+# High level Requirement And Low level Requirements 
